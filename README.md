@@ -15,5 +15,5 @@ This microservice allows users to manage a catalog of exoplanets, with functiona
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/exoplanet-service.git
+   git clone https://github.com/AashishBansal777/Exoplanet
    cd exoplanet-service
