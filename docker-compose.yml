@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  exoplanet:
+    container_name: exoplanet
+    build:
+      context: .
+    ports:
+      - 7078:7078
