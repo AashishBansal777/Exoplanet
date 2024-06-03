@@ -17,3 +17,4 @@ This microservice allows users to manage a catalog of exoplanets, with functiona
    ```sh
    git clone https://github.com/AashishBansal777/Exoplanet
    cd exoplanet-service
+2. Run cmd docker-compose run -d
